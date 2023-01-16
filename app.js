@@ -133,4 +133,4 @@ for (const product of products2) {
 }
 console.log(goodProducts);
 console.log(badProducts)
-
+asda
